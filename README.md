@@ -49,6 +49,7 @@ cyclistic-bike-share-analysis/
 │   └── consultas.sql
 │
 └── README.md
+```
 
 ## Tableau Dashboard
 
