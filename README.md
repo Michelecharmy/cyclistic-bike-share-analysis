@@ -49,3 +49,9 @@ cyclistic-bike-share-analysis/
 │   └── consultas.sql
 │
 └── README.md
+
+## Tableau Dashboard
+
+The interactive dashboard was created in Tableau Public and presents the main findings of the analysis.
+
+[View the Tableau Dashboard](https://public.tableau.com/views/Cyclistic-Userbehavioranalysis/Dashboard1)
