@@ -1,0 +1,15 @@
+ordem_dia,dia_semana,member_casual,total_viagens
+1,Sunday,casual,318480
+1,Sunday,member,374492
+2,Monday,casual,220280
+2,Monday,member,494937
+3,Tuesday,casual,218800
+3,Tuesday,member,558517
+4,Wednesday,casual,212183
+4,Wednesday,member,538722
+5,Thursday,casual,247670
+5,Thursday,member,560394
+6,Friday,casual,307148
+6,Friday,member,517005
+7,Saturday,casual,396411
+7,Saturday,member,438652
