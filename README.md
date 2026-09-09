@@ -57,6 +57,9 @@ The interactive dashboard was created in Tableau Public and presents the main fi
 
 [View the Tableau Dashboard](https://public.tableau.com/views/Cyclistic-Userbehavioranalysis/Dashboard1)
 
+
+![Cyclistic Tableau Dashboard](images/tableau_dashboard.png)
+
 ## Recommendations
 
 Based on the analysis, the following recommendations are proposed:
