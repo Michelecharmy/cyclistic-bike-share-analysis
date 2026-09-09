@@ -10,3 +10,12 @@ SELECT
 FROM `commading-tome-498420-s1.projeto_xelinha.dados_de_bicicletas`
 GROUP BY hora, member_casual
 ORDER BY hora, member_casual;
+
+-- 2. Total de trips by user type
+
+SELECT
+  member_casual,
+  COUNT(*) AS total_viagens
+FROM commading-tome-498420-s1.projeto_xelinha.dados_de_bicicletas
+GROUP BY member_casual
+ORDER BY member_casual;
